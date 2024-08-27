@@ -1,4 +1,4 @@
-# Hello World!
+THIS CHANGE WILL CAUSE CONFLICT
 This is some plain text that forms a paragraph.
 1. Lists can be numbered.
 A quick brown fox jumps over the lazy dog.
